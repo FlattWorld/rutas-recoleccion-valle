@@ -1,0 +1,3028 @@
+[
+  {
+    "id": 0,
+    "day": "Lunes",
+    "routes": [
+      {
+        "id": "r1",
+        "name": "Boulevard",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Centro Santa Maria",
+        "places": [
+          [
+            "Av. Juárez",
+            "07:00AM"
+          ],
+          [
+            "Calle Miguel Hidalgo",
+            "07:15AM"
+          ],
+          [
+            "Escuela Pagaza",
+            "07:20AM"
+          ],
+          [
+            "Calle Nicolás Bravo",
+            "07:25AM"
+          ],
+          [
+            "Calle San Vicente",
+            "07:30AM"
+          ],
+          [
+            "Contenedores Alameda",
+            "07:35AM"
+          ],
+          [
+            "Malecón",
+            "07:40AM"
+          ],
+          [
+            "Calle Ameyal",
+            "07:45AM"
+          ],
+          [
+            "Calle Marina Nacional",
+            "07:50AM"
+          ],
+          [
+            "Calle Calzada Sta. María",
+            "08:00AM"
+          ],
+          [
+            "Calle del salitre",
+            "08:05AM"
+          ],
+          [
+            "Calle Miguel Archundia",
+            "08:10AM"
+          ],
+          [
+            "Recorrido al Manguito",
+            "08:15AM"
+          ],
+          [
+            "Calle 5 de Mayo",
+            "08:20AM"
+          ],
+          [
+            "Joaquín Arcadio Pagaza",
+            "08:25AM"
+          ],
+          [
+            "Zócalo",
+            "08:30AM"
+          ],
+          [
+            "Calle Bocanegra",
+            "08:35AM"
+          ],
+          [
+            "Av. Toluca",
+            "08:45AM"
+          ],
+          [
+            "Prolongación Av. toluca",
+            "08:55AM"
+          ],
+          [
+            "Boulevard",
+            "09:05AM"
+          ],
+          [
+            "Costera",
+            "09:25AM"
+          ],
+          [
+            "Manguito",
+            "09:45AM"
+          ],
+          [
+            "Coporito",
+            "10:00AM"
+          ],
+          [
+            "Calle de la orza",
+            "10:10AM"
+          ],
+          [
+            "Calle San Pedro pescadpr",
+            "10:20AM"
+          ],
+          [
+            "Calle barlomento",
+            "10:30AM"
+          ],
+          [
+            "Calle amura",
+            "10:40AM"
+          ],
+          [
+            "Calle rinconada del lago",
+            "10:50AM"
+          ],
+          [
+            "Calle la escota",
+            "11:00AM"
+          ],
+          [
+            "Panteon de sta. María",
+            "11:20AM"
+          ],
+          [
+            "Calle 5 de Mayo",
+            "11:40AM"
+          ],
+          [
+            "Manguito",
+            "12:00AM"
+          ],
+          [
+            "Cruz de misión",
+            "12:00"
+          ],
+          [
+            "Descarga",
+            "-2HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Centro capilla",
+        "places": [
+          [
+            "Av. Juárez",
+            "07:00AM"
+          ],
+          [
+            "Calle independencia",
+            "07:15AM"
+          ],
+          [
+            "La capilla",
+            "07:25AM"
+          ],
+          [
+            "Alrededor de Esc. Lázaro",
+            "07:30AM"
+          ],
+          [
+            "Calle 16 de sept.",
+            "07:40AM"
+          ],
+          [
+            "La Piramide",
+            "07:50AM"
+          ],
+          [
+            "Costera",
+            "08:00AM"
+          ],
+          [
+            "Av. Juárez Segunda Vuelta",
+            "08:10AM"
+          ],
+          [
+            "Calle Miguel Hidalgo",
+            "08:20AM"
+          ],
+          [
+            "Calle Nicolás Bravo",
+            "08:30AM"
+          ],
+          [
+            "Calle Porfirio Díaz",
+            "08:40AM"
+          ],
+          [
+            "Contenedor del auditorio",
+            "08:50AM"
+          ],
+          [
+            "Calle Lázaro Cárdenas",
+            "09:00AM"
+          ],
+          [
+            "Calle 16 de Sept.",
+            "09:10AM"
+          ],
+          [
+            "Av. Costera",
+            "09:20AM"
+          ],
+          [
+            "Calle 2 de Octubre",
+            "09:30AM"
+          ],
+          [
+            "Calle del Panteón Guadalupe",
+            "09:40AM"
+          ],
+          [
+            "Costera",
+            "09:50AM"
+          ],
+          [
+            "Calle San Pablo",
+            "10:00AM"
+          ],
+          [
+            "Calle de los naranjos",
+            "10:20AM"
+          ],
+          [
+            "Col. ISSEMYM",
+            "10:30AM"
+          ],
+          [
+            "Calle San Antonio",
+            "10:40AM"
+          ],
+          [
+            "Avenida Costera",
+            "11:00AM"
+          ],
+          [
+            "Prolongación 15 de Sept.",
+            "11:20AM"
+          ],
+          [
+            "Recorrido a la Peña",
+            "11:30AM"
+          ],
+          [
+            "Costera",
+            "11:50AM"
+          ],
+          [
+            "Manguito",
+            "12;00AM"
+          ],
+          [
+            "Cruz de Misión",
+            "12:00AM"
+          ],
+          [
+            "Descarga",
+            "-2HRS."
+          ]
+        ]
+      },
+      {
+        "id": "r4",
+        "name": "apartado",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r5",
+        "name": "alcantarilla",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r6",
+        "name": "despósito",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r7",
+        "name": "la peña",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r8",
+        "name": "Comunidad el arco",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r9",
+        "name": "comunidad casas viejas",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r10",
+        "name": "recorrido y apoyo",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r11",
+        "name": "comunidad avándaro",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r12",
+        "name": "avándaro club",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r13",
+        "name": "Rincon villa del valle vespertino",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r14",
+        "name": "avándaro vespertino",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r15",
+        "name": "recorrido vespertino",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r16",
+        "name": "ruta nocturna",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "day": "Martes",
+    "routes": [
+      {
+        "id": "r1",
+        "name": "Boulevard",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r2",
+        "name": "Centro Santa Maria",
+        "places": [
+          [
+            "Av. Juárez",
+            "07:00AM"
+          ],
+          [
+            "Calle Miguel Hidalgo",
+            "07:15AM"
+          ],
+          [
+            "Escuela Pagaza",
+            "07:20AM"
+          ],
+          [
+            "Calle Nicolás Bravo",
+            "07:25AM"
+          ],
+          [
+            "Calle San Vicente",
+            "07:30AM"
+          ],
+          [
+            "Contenedores Alameda",
+            "07:35AM"
+          ],
+          [
+            "Malecón",
+            "07:40AM"
+          ],
+          [
+            "Calle Ameyal",
+            "07:45AM"
+          ],
+          [
+            "Calle Marina Nacional",
+            "07:50AM"
+          ],
+          [
+            "Calle Calzada Sta. María",
+            "08:00AM"
+          ],
+          [
+            "Calle del salitre",
+            "08:05AM"
+          ],
+          [
+            "Calle Miguel Archundia",
+            "08:10AM"
+          ],
+          [
+            "Recorrido al Manguito",
+            "08:15AM"
+          ],
+          [
+            "Calle 5 de Mayo",
+            "08:20AM"
+          ],
+          [
+            "Joaquín Arcadio Pagaza",
+            "08:25AM"
+          ],
+          [
+            "Zócalo",
+            "08:30AM"
+          ],
+          [
+            "Calle Bocanegra",
+            "08:35AM"
+          ],
+          [
+            "Av. Toluca",
+            "08:45AM"
+          ],
+          [
+            "Prolongación Av. toluca",
+            "08:55AM"
+          ],
+          [
+            "Boulevard",
+            "09:05AM"
+          ],
+          [
+            "Costera",
+            "09:25AM"
+          ],
+          [
+            "Manguito",
+            "09:45AM"
+          ],
+          [
+            "Coporito",
+            "10:00AM"
+          ],
+          [
+            "Calle de la orza",
+            "10:10AM"
+          ],
+          [
+            "Calle San Pedro pescadpr",
+            "10:20AM"
+          ],
+          [
+            "Calle barlomento",
+            "10:30AM"
+          ],
+          [
+            "Calle amura",
+            "10:40AM"
+          ],
+          [
+            "Calle rinconada del lago",
+            "10:50AM"
+          ],
+          [
+            "Calle la escota",
+            "11:00AM"
+          ],
+          [
+            "Panteon de sta. María",
+            "11:20AM"
+          ],
+          [
+            "Calle 5 de Mayo",
+            "11:40AM"
+          ],
+          [
+            "Manguito",
+            "12:00AM"
+          ],
+          [
+            "Cruz de misión",
+            "12:00"
+          ],
+          [
+            "Descarga",
+            "-2HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r3",
+        "name": "Centro capilla",
+        "places": [
+          [
+            "Av. Juárez",
+            "07:00AM"
+          ],
+          [
+            "Calle independencia",
+            "07:15AM"
+          ],
+          [
+            "La capilla",
+            "07:25AM"
+          ],
+          [
+            "Alrededor de Esc. Lázaro",
+            "07:30AM"
+          ],
+          [
+            "Calle 16 de sept.",
+            "07:40AM"
+          ],
+          [
+            "La Piramide",
+            "07:50AM"
+          ],
+          [
+            "Costera",
+            "08:00AM"
+          ],
+          [
+            "Av. Juárez Segunda Vuelta",
+            "08:10AM"
+          ],
+          [
+            "Calle Miguel Hidalgo",
+            "08:20AM"
+          ],
+          [
+            "Calle Nicolás Bravo",
+            "08:30AM"
+          ],
+          [
+            "Calle Porfirio Díaz",
+            "08:40AM"
+          ],
+          [
+            "Contenedor del auditorio",
+            "08:50AM"
+          ],
+          [
+            "Calle Lázaro Cárdenas",
+            "09:00AM"
+          ],
+          [
+            "Calle 16 de Sept.",
+            "09:10AM"
+          ],
+          [
+            "Av. Costera",
+            "09:20AM"
+          ],
+          [
+            "Calle 2 de Octubre",
+            "09:30AM"
+          ],
+          [
+            "Calle del Panteón Guadalupe",
+            "09:40AM"
+          ],
+          [
+            "Costera",
+            "09:50AM"
+          ],
+          [
+            "Calle San Pablo",
+            "10:00AM"
+          ],
+          [
+            "Calle de los naranjos",
+            "10:20AM"
+          ],
+          [
+            "Col. ISSEMYM",
+            "10:30AM"
+          ],
+          [
+            "Calle San Antonio",
+            "10:40AM"
+          ],
+          [
+            "Avenida Costera",
+            "11:00AM"
+          ],
+          [
+            "Prolongación 15 de Sept.",
+            "11:20AM"
+          ],
+          [
+            "Recorrido a la Peña",
+            "11:30AM"
+          ],
+          [
+            "Costera",
+            "11:50AM"
+          ],
+          [
+            "Manguito",
+            "12;00AM"
+          ],
+          [
+            "Cruz de Misión",
+            "12:00AM"
+          ],
+          [
+            "Descarga",
+            "-2HRS."
+          ]
+        ]
+      },
+      {
+        "id": "r4",
+        "name": "apartado",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r5",
+        "name": "alcantarilla",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r6",
+        "name": "despósito",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r7",
+        "name": "la peña",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r8",
+        "name": "Comunidad el arco",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r9",
+        "name": "comunidad casas viejas",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r10",
+        "name": "recorrido y apoyo",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r11",
+        "name": "comunidad avándaro",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r12",
+        "name": "avándaro club",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r13",
+        "name": "Rincon villa del valle vespertino",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r14",
+        "name": "avándaro vespertino",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r15",
+        "name": "recorrido vespertino",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      },
+      {
+        "id": "r16",
+        "name": "ruta nocturna",
+        "places": [
+          [
+            "Reclusorio",
+            "07:00AM"
+          ],
+          [
+            "Atrás de mercado",
+            "07:15AM"
+          ],
+          [
+            "Calle vergel",
+            "07:25AM"
+          ],
+          [
+            "Calle 16 de Sep",
+            "07:30AM"
+          ],
+          [
+            "Costera (Estatales)",
+            "07:35AM"
+          ],
+          [
+            "Boulevard",
+            "07:40AM"
+          ],
+          [
+            "Alfareros",
+            "07:50AM"
+          ],
+          [
+            "Av. Juarez-Notaría",
+            "08:10AM"
+          ],
+          [
+            "Boulevard",
+            "08:20AM"
+          ],
+          [
+            "Calle flor de loto",
+            "08:30AM"
+          ],
+          [
+            "Calle del Cerezo",
+            "08:40AM"
+          ],
+          [
+            "Palo verde",
+            "08:50AM"
+          ],
+          [
+            "Súper Che",
+            "09:00AM"
+          ],
+          [
+            "Palito verde",
+            "09:15AM"
+          ],
+          [
+            "Alfareros 2da Vuelta",
+            "09:25AM"
+          ],
+          [
+            "Av. Juarez",
+            "09:30AM"
+          ],
+          [
+            "Recorrido costera",
+            "10:00AM"
+          ],
+          [
+            "Manguito",
+            "10:30AM"
+          ],
+          [
+            "Descarga",
+            "-2 HRS"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "day": "Miércoles",
+    "routes": [
+      {
+      "id": "r1", "name": "Boulevard", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r2", "name":"Centro Santa Maria", "places": [["Av. Juárez", "07:00AM"],["Calle Miguel Hidalgo", "07:15AM"],["Escuela Pagaza", "07:20AM"],["Calle Nicolás Bravo", "07:25AM"],["Calle San Vicente", "07:30AM"],["Contenedores Alameda", "07:35AM"],["Malecón", "07:40AM"],["Calle Ameyal","07:45AM"],["Calle Marina Nacional","07:50AM"],["Calle Calzada Sta. María","08:00AM"],["Calle del salitre", "08:05AM"],["Calle Miguel Archundia", "08:10AM"],["Recorrido al Manguito","08:15AM"],["Calle 5 de Mayo", "08:20AM"],["Joaquín Arcadio Pagaza", "08:25AM"],["Zócalo", "08:30AM"],["Calle Bocanegra","08:35AM"],["Av. Toluca", "08:45AM"],["Prolongación Av. toluca","08:55AM"],["Boulevard", "09:05AM"],["Costera", "09:25AM"],["Manguito", "09:45AM"],["Coporito", "10:00AM"],["Calle de la orza", "10:10AM"],["Calle San Pedro pescadpr", "10:20AM"],["Calle barlomento", "10:30AM"],["Calle amura", "10:40AM"],["Calle rinconada del lago", "10:50AM"],["Calle la escota", "11:00AM"],["Panteon de sta. María", "11:20AM"],["Calle 5 de Mayo", "11:40AM"],["Manguito", "12:00AM"],["Cruz de misión", "12:00"],["Descarga", "-2HRS"]]
+    },{
+      "id": "r3","name": "Centro capilla", "places": [["Av. Juárez", "07:00AM"],["Calle independencia", "07:15AM"],["La capilla", "07:25AM"],["Alrededor de Esc. Lázaro", "07:30AM"],["Calle 16 de sept.", "07:40AM"],["La Piramide", "07:50AM"],["Costera","08:00AM"],["Av. Juárez Segunda Vuelta","08:10AM"],["Calle Miguel Hidalgo","08:20AM"],["Calle Nicolás Bravo","08:30AM"],["Calle Porfirio Díaz", "08:40AM"],["Contenedor del auditorio", "08:50AM"],["Calle Lázaro Cárdenas", "09:00AM"],["Calle 16 de Sept.", "09:10AM"],["Av. Costera", "09:20AM"],["Calle 2 de Octubre", "09:30AM"],["Calle del Panteón Guadalupe", "09:40AM"],["Costera", "09:50AM"],["Calle San Pablo", "10:00AM"],["Calle de los naranjos", "10:20AM"],["Col. ISSEMYM", "10:30AM"],["Calle San Antonio", "10:40AM"],["Avenida Costera", "11:00AM"],["Prolongación 15 de Sept.", "11:20AM"],["Recorrido a la Peña", "11:30AM"],["Costera", "11:50AM"],["Manguito", "12;00AM"],["Cruz de Misión", "12:00AM"],["Descarga", "-2HRS."]]
+    },{
+      "id": "r4","name": "apartado", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r5", "name": "alcantarilla", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r6", "name": "despósito", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r7","name": "la peña", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r8","name": "Comunidad el arco", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r9","name": "comunidad casas viejas", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r10","name": "recorrido y apoyo", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r11","name": "comunidad avándaro", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r12","name": "avándaro club", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r13","name": "Rincon villa del valle vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r14","name": "avándaro vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r15","name": "recorrido vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r16","name": "ruta nocturna", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    }]
+  },
+  {
+    "id": 3,
+    "day": "Jueves",
+    "routes": [
+      {
+      "id": "r1", "name": "Boulevard", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r2", "name":"Centro Santa Maria", "places": [["Av. Juárez", "07:00AM"],["Calle Miguel Hidalgo", "07:15AM"],["Escuela Pagaza", "07:20AM"],["Calle Nicolás Bravo", "07:25AM"],["Calle San Vicente", "07:30AM"],["Contenedores Alameda", "07:35AM"],["Malecón", "07:40AM"],["Calle Ameyal","07:45AM"],["Calle Marina Nacional","07:50AM"],["Calle Calzada Sta. María","08:00AM"],["Calle del salitre", "08:05AM"],["Calle Miguel Archundia", "08:10AM"],["Recorrido al Manguito","08:15AM"],["Calle 5 de Mayo", "08:20AM"],["Joaquín Arcadio Pagaza", "08:25AM"],["Zócalo", "08:30AM"],["Calle Bocanegra","08:35AM"],["Av. Toluca", "08:45AM"],["Prolongación Av. toluca","08:55AM"],["Boulevard", "09:05AM"],["Costera", "09:25AM"],["Manguito", "09:45AM"],["Coporito", "10:00AM"],["Calle de la orza", "10:10AM"],["Calle San Pedro pescadpr", "10:20AM"],["Calle barlomento", "10:30AM"],["Calle amura", "10:40AM"],["Calle rinconada del lago", "10:50AM"],["Calle la escota", "11:00AM"],["Panteon de sta. María", "11:20AM"],["Calle 5 de Mayo", "11:40AM"],["Manguito", "12:00AM"],["Cruz de misión", "12:00"],["Descarga", "-2HRS"]]
+    },{
+      "id": "r3","name": "Centro capilla", "places": [["Av. Juárez", "07:00AM"],["Calle independencia", "07:15AM"],["La capilla", "07:25AM"],["Alrededor de Esc. Lázaro", "07:30AM"],["Calle 16 de sept.", "07:40AM"],["La Piramide", "07:50AM"],["Costera","08:00AM"],["Av. Juárez Segunda Vuelta","08:10AM"],["Calle Miguel Hidalgo","08:20AM"],["Calle Nicolás Bravo","08:30AM"],["Calle Porfirio Díaz", "08:40AM"],["Contenedor del auditorio", "08:50AM"],["Calle Lázaro Cárdenas", "09:00AM"],["Calle 16 de Sept.", "09:10AM"],["Av. Costera", "09:20AM"],["Calle 2 de Octubre", "09:30AM"],["Calle del Panteón Guadalupe", "09:40AM"],["Costera", "09:50AM"],["Calle San Pablo", "10:00AM"],["Calle de los naranjos", "10:20AM"],["Col. ISSEMYM", "10:30AM"],["Calle San Antonio", "10:40AM"],["Avenida Costera", "11:00AM"],["Prolongación 15 de Sept.", "11:20AM"],["Recorrido a la Peña", "11:30AM"],["Costera", "11:50AM"],["Manguito", "12;00AM"],["Cruz de Misión", "12:00AM"],["Descarga", "-2HRS."]]
+    },{
+      "id": "r4","name": "apartado", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r5", "name": "alcantarilla", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r6", "name": "despósito", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r7","name": "la peña", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r8","name": "Comunidad el arco", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r9","name": "comunidad casas viejas", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r10","name": "recorrido y apoyo", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r11","name": "comunidad avándaro", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r12","name": "avándaro club", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r13","name": "Rincon villa del valle vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r14","name": "avándaro vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r15","name": "recorrido vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r16","name": "ruta nocturna", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    }]
+  },
+  {
+    "id": 4,
+    "day": "Viernes",
+    "routes": [
+      {
+      "id": "r1", "name": "Boulevard", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r2", "name":"Centro Santa Maria", "places": [["Av. Juárez", "07:00AM"],["Calle Miguel Hidalgo", "07:15AM"],["Escuela Pagaza", "07:20AM"],["Calle Nicolás Bravo", "07:25AM"],["Calle San Vicente", "07:30AM"],["Contenedores Alameda", "07:35AM"],["Malecón", "07:40AM"],["Calle Ameyal","07:45AM"],["Calle Marina Nacional","07:50AM"],["Calle Calzada Sta. María","08:00AM"],["Calle del salitre", "08:05AM"],["Calle Miguel Archundia", "08:10AM"],["Recorrido al Manguito","08:15AM"],["Calle 5 de Mayo", "08:20AM"],["Joaquín Arcadio Pagaza", "08:25AM"],["Zócalo", "08:30AM"],["Calle Bocanegra","08:35AM"],["Av. Toluca", "08:45AM"],["Prolongación Av. toluca","08:55AM"],["Boulevard", "09:05AM"],["Costera", "09:25AM"],["Manguito", "09:45AM"],["Coporito", "10:00AM"],["Calle de la orza", "10:10AM"],["Calle San Pedro pescadpr", "10:20AM"],["Calle barlomento", "10:30AM"],["Calle amura", "10:40AM"],["Calle rinconada del lago", "10:50AM"],["Calle la escota", "11:00AM"],["Panteon de sta. María", "11:20AM"],["Calle 5 de Mayo", "11:40AM"],["Manguito", "12:00AM"],["Cruz de misión", "12:00"],["Descarga", "-2HRS"]]
+    },{
+      "id": "r3","name": "Centro capilla", "places": [["Av. Juárez", "07:00AM"],["Calle independencia", "07:15AM"],["La capilla", "07:25AM"],["Alrededor de Esc. Lázaro", "07:30AM"],["Calle 16 de sept.", "07:40AM"],["La Piramide", "07:50AM"],["Costera","08:00AM"],["Av. Juárez Segunda Vuelta","08:10AM"],["Calle Miguel Hidalgo","08:20AM"],["Calle Nicolás Bravo","08:30AM"],["Calle Porfirio Díaz", "08:40AM"],["Contenedor del auditorio", "08:50AM"],["Calle Lázaro Cárdenas", "09:00AM"],["Calle 16 de Sept.", "09:10AM"],["Av. Costera", "09:20AM"],["Calle 2 de Octubre", "09:30AM"],["Calle del Panteón Guadalupe", "09:40AM"],["Costera", "09:50AM"],["Calle San Pablo", "10:00AM"],["Calle de los naranjos", "10:20AM"],["Col. ISSEMYM", "10:30AM"],["Calle San Antonio", "10:40AM"],["Avenida Costera", "11:00AM"],["Prolongación 15 de Sept.", "11:20AM"],["Recorrido a la Peña", "11:30AM"],["Costera", "11:50AM"],["Manguito", "12;00AM"],["Cruz de Misión", "12:00AM"],["Descarga", "-2HRS."]]
+    },{
+      "id": "r4","name": "apartado", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r5", "name": "alcantarilla", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r6", "name": "despósito", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r7","name": "la peña", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r8","name": "Comunidad el arco", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r9","name": "comunidad casas viejas", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r10","name": "recorrido y apoyo", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r11","name": "comunidad avándaro", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r12","name": "avándaro club", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r13","name": "Rincon villa del valle vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r14","name": "avándaro vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r15","name": "recorrido vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r16","name": "ruta nocturna", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    }]
+  },
+  {
+    "id": 5,
+    "day": "Sábado",
+    "routes": [
+      {
+      "id": "r1", "name": "Boulevard", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r2", "name":"Centro Santa Maria", "places": [["Av. Juárez", "07:00AM"],["Calle Miguel Hidalgo", "07:15AM"],["Escuela Pagaza", "07:20AM"],["Calle Nicolás Bravo", "07:25AM"],["Calle San Vicente", "07:30AM"],["Contenedores Alameda", "07:35AM"],["Malecón", "07:40AM"],["Calle Ameyal","07:45AM"],["Calle Marina Nacional","07:50AM"],["Calle Calzada Sta. María","08:00AM"],["Calle del salitre", "08:05AM"],["Calle Miguel Archundia", "08:10AM"],["Recorrido al Manguito","08:15AM"],["Calle 5 de Mayo", "08:20AM"],["Joaquín Arcadio Pagaza", "08:25AM"],["Zócalo", "08:30AM"],["Calle Bocanegra","08:35AM"],["Av. Toluca", "08:45AM"],["Prolongación Av. toluca","08:55AM"],["Boulevard", "09:05AM"],["Costera", "09:25AM"],["Manguito", "09:45AM"],["Coporito", "10:00AM"],["Calle de la orza", "10:10AM"],["Calle San Pedro pescadpr", "10:20AM"],["Calle barlomento", "10:30AM"],["Calle amura", "10:40AM"],["Calle rinconada del lago", "10:50AM"],["Calle la escota", "11:00AM"],["Panteon de sta. María", "11:20AM"],["Calle 5 de Mayo", "11:40AM"],["Manguito", "12:00AM"],["Cruz de misión", "12:00"],["Descarga", "-2HRS"]]
+    },{
+      "id": "r3","name": "Centro capilla", "places": [["Av. Juárez", "07:00AM"],["Calle independencia", "07:15AM"],["La capilla", "07:25AM"],["Alrededor de Esc. Lázaro", "07:30AM"],["Calle 16 de sept.", "07:40AM"],["La Piramide", "07:50AM"],["Costera","08:00AM"],["Av. Juárez Segunda Vuelta","08:10AM"],["Calle Miguel Hidalgo","08:20AM"],["Calle Nicolás Bravo","08:30AM"],["Calle Porfirio Díaz", "08:40AM"],["Contenedor del auditorio", "08:50AM"],["Calle Lázaro Cárdenas", "09:00AM"],["Calle 16 de Sept.", "09:10AM"],["Av. Costera", "09:20AM"],["Calle 2 de Octubre", "09:30AM"],["Calle del Panteón Guadalupe", "09:40AM"],["Costera", "09:50AM"],["Calle San Pablo", "10:00AM"],["Calle de los naranjos", "10:20AM"],["Col. ISSEMYM", "10:30AM"],["Calle San Antonio", "10:40AM"],["Avenida Costera", "11:00AM"],["Prolongación 15 de Sept.", "11:20AM"],["Recorrido a la Peña", "11:30AM"],["Costera", "11:50AM"],["Manguito", "12;00AM"],["Cruz de Misión", "12:00AM"],["Descarga", "-2HRS."]]
+    },{
+      "id": "r4","name": "apartado", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r5", "name": "alcantarilla", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r6", "name": "despósito", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r7","name": "la peña", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r8","name": "Comunidad el arco", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r9","name": "comunidad casas viejas", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r10","name": "recorrido y apoyo", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r11","name": "comunidad avándaro", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r12","name": "avándaro club", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r13","name": "Rincon villa del valle vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r14","name": "avándaro vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r15","name": "recorrido vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r16","name": "ruta nocturna", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    }]
+  },
+  {
+    "id": 6,
+    "day": "Domingo",
+    "routes": [
+      {
+      "id": "r1", "name": "Boulevard", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r2", "name":"Centro Santa Maria", "places": [["Av. Juárez", "07:00AM"],["Calle Miguel Hidalgo", "07:15AM"],["Escuela Pagaza", "07:20AM"],["Calle Nicolás Bravo", "07:25AM"],["Calle San Vicente", "07:30AM"],["Contenedores Alameda", "07:35AM"],["Malecón", "07:40AM"],["Calle Ameyal","07:45AM"],["Calle Marina Nacional","07:50AM"],["Calle Calzada Sta. María","08:00AM"],["Calle del salitre", "08:05AM"],["Calle Miguel Archundia", "08:10AM"],["Recorrido al Manguito","08:15AM"],["Calle 5 de Mayo", "08:20AM"],["Joaquín Arcadio Pagaza", "08:25AM"],["Zócalo", "08:30AM"],["Calle Bocanegra","08:35AM"],["Av. Toluca", "08:45AM"],["Prolongación Av. toluca","08:55AM"],["Boulevard", "09:05AM"],["Costera", "09:25AM"],["Manguito", "09:45AM"],["Coporito", "10:00AM"],["Calle de la orza", "10:10AM"],["Calle San Pedro pescadpr", "10:20AM"],["Calle barlomento", "10:30AM"],["Calle amura", "10:40AM"],["Calle rinconada del lago", "10:50AM"],["Calle la escota", "11:00AM"],["Panteon de sta. María", "11:20AM"],["Calle 5 de Mayo", "11:40AM"],["Manguito", "12:00AM"],["Cruz de misión", "12:00"],["Descarga", "-2HRS"]]
+    },{
+      "id": "r3","name": "Centro capilla", "places": [["Av. Juárez", "07:00AM"],["Calle independencia", "07:15AM"],["La capilla", "07:25AM"],["Alrededor de Esc. Lázaro", "07:30AM"],["Calle 16 de sept.", "07:40AM"],["La Piramide", "07:50AM"],["Costera","08:00AM"],["Av. Juárez Segunda Vuelta","08:10AM"],["Calle Miguel Hidalgo","08:20AM"],["Calle Nicolás Bravo","08:30AM"],["Calle Porfirio Díaz", "08:40AM"],["Contenedor del auditorio", "08:50AM"],["Calle Lázaro Cárdenas", "09:00AM"],["Calle 16 de Sept.", "09:10AM"],["Av. Costera", "09:20AM"],["Calle 2 de Octubre", "09:30AM"],["Calle del Panteón Guadalupe", "09:40AM"],["Costera", "09:50AM"],["Calle San Pablo", "10:00AM"],["Calle de los naranjos", "10:20AM"],["Col. ISSEMYM", "10:30AM"],["Calle San Antonio", "10:40AM"],["Avenida Costera", "11:00AM"],["Prolongación 15 de Sept.", "11:20AM"],["Recorrido a la Peña", "11:30AM"],["Costera", "11:50AM"],["Manguito", "12;00AM"],["Cruz de Misión", "12:00AM"],["Descarga", "-2HRS."]]
+    },{
+      "id": "r4","name": "apartado", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r5", "name": "alcantarilla", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r6", "name": "despósito", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r7","name": "la peña", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r8","name": "Comunidad el arco", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r9","name": "comunidad casas viejas", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r10","name": "recorrido y apoyo", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r11","name": "comunidad avándaro", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r12","name": "avándaro club", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r13","name": "Rincon villa del valle vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r14","name": "avándaro vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r15","name": "recorrido vespertino", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    },{
+      "id": "r16","name": "ruta nocturna", "places": [["Reclusorio", "07:00AM"],["Atrás de mercado", "07:15AM"],["Calle vergel", "07:25AM"],["Calle 16 de Sep", "07:30AM"],["Costera (Estatales)", "07:35AM"],["Boulevard", "07:40AM"], ["Alfareros", "07:50AM"], ["Av. Juarez-Notaría", "08:10AM"], ["Boulevard", "08:20AM"],["Calle flor de loto", "08:30AM"], ["Calle del Cerezo", "08:40AM"],["Palo verde", "08:50AM"], ["Súper Che", "09:00AM"],["Palito verde", "09:15AM"], ["Alfareros 2da Vuelta","09:25AM"],["Av. Juarez","09:30AM"],["Recorrido costera", "10:00AM"],["Manguito", "10:30AM"], ["Descarga", "-2 HRS"]]
+    }]
+  }
+]
